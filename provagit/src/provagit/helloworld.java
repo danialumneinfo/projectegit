@@ -12,6 +12,7 @@ System.out.println("Hello world 4");
 System.out.println("prova de fetch 4");
 System.out.println("Si ara ho modifico m'hauria de deixar fer fetch.");
 System.out.println("Si ara ho modifico m'hauria de deixar fer fetch 2.");
+System.out.println("Si ara ho modifico m'hauria de deixar fer fetch 3.");
 	}
 
 }
